@@ -16,29 +16,28 @@ _____________
 ### UX (AREAS EN VERDE)
 
 
-Botón con el logo de la aplicación, para regresar al inicio.
-Videos recomendados en el inicio según el historial del usuario.
-Lista de canales suscritos
-Busqueda con autocompletado.
-Botones PAUSA, PLAY, SIGUIENTE VIDEO Y AUDIO se visualicen en el video
-Opcion reporduccion automatica
-Menu contextual con lista e sugerencias
-Boton Like 
-Botones de configuracion y subtitulos
-Foto del perfil del usuario.
-Poner una imagen de perfil del usuario.
+a.Botón con el logo de la aplicación, para regresar al inicio.
+b.Videos recomendados en el inicio según el historial del usuario.
+c.Lista de canales suscritos
+d.Busqueda con autocompletado.
+e.Botones PAUSA, PLAY, SIGUIENTE VIDEO Y AUDIO se visualicen en el video
+f.Opcion reporduccion automatica
+g.Menu contextual con lista e sugerencias
+h.Boton Like 
+i.Botones de configuracion y subtitulos
+j.Foto del perfil del usuario.
+k.Poner una imagen de perfil del usuario.
 
 ### UI (AREAS EN ROJO)
-Orden y perfil del usuario
-Dropdown del canal
-Diseño de los botones del menú.
-Resaltado de la pagina actual
-Uso de colores: rojo y gris
-Diseño de los menus de navegación
-
-La forma, tamaño y colores de los cuadros de videos.
-Uso de los colores de la marca en la barra de visualización del video.
-Orden de  videos relacionados.
+a.Orden y perfil del usuario
+b.Dropdown del canal
+c.Diseño de los botones del menú.
+d.Resaltado de la pagina actual
+e.Uso de colores: rojo y gris
+f.Diseño de los menus de navegación
+g.La forma, tamaño y colores de los cuadros de videos.
+h.Uso de los colores de la marca en la barra de visualización del video.
+i.Orden de  videos relacionados.
 
 
 
